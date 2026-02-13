@@ -1,0 +1,114 @@
+🧠 Conceptual Understanding Tests
+
+What research gap does the proposed chatbot aim to fill?
+
+Why do the authors claim no similar chatbot exists in project management?
+
+What makes their chatbot different from ChatPDF and SciSummary?
+
+How does the chatbot act as a virtual project manager?
+
+What are the key contributions listed in the introduction?
+
+⚙ Methodology Stress Tests
+
+Explain the complete methodology framework in structured steps.
+
+What preprocessing techniques were used and why?
+
+Why is recursive character text splitting important?
+
+What is the dataset size and how was it created?
+
+Why was OpenAssistant SFT-1 12B chosen?
+
+📊 Performance Evaluation Tests
+
+What are the cosine and semantic similarity scores?
+
+How is cosine similarity calculated?
+
+Why is semantic similarity more powerful than cosine similarity?
+
+What was the response time performance?
+
+What does Table 4 indicate?
+
+📈 Comparative Analysis Tests
+
+Compare ChatPDF vs the proposed chatbot.
+
+How does the chatbot handle ARCore explanation differently?
+
+What legal and regulatory differences were highlighted?
+
+What does Table 7 justify?
+
+How does the chatbot show deeper contextual awareness?
+
+🔬 Advanced Reasoning Tests (Real Efficiency Check)
+
+These test whether hybrid retrieval is working properly.
+
+Combine findings from Methodology and Result Analysis — how do preprocessing techniques affect similarity scores?
+
+How does the maintenance mechanism improve long-term chatbot performance?
+
+Explain how scalability is achieved across industries.
+
+Why is semantic similarity crucial for project management automation?
+
+If image outputs are added in future work, what limitations would be solved?
+
+📚 Table & Diagram Specific Tests (Very Important)
+
+These will break weak retrieval systems:
+
+What does Figure 5 illustrate?
+
+What does Figure 6 represent?
+
+What is shown in Table 2?
+
+What comparison is made in Table 5?
+
+What does Table 6 reveal about SciSummary limitations?
+
+If your system retrieves exact sections for these — your hybrid search is working correctly.
+
+
+
+
+
+
+
+https://arxiv.org/pdf/2303.08774
+
+
+
+
+6
+
+🧪 LEVEL 1 — Direct Retrieval Accuracy
+
+What are the core improvements introduced in GPT-4 compared to previous models?
+
+Does the report disclose the full model architecture? If not, why?
+
+What evaluation benchmarks are mentioned?
+
+What is meant by “predictable scaling” in the paper?
+
+What safety measures were implemented before deployment?
+
+🧠 LEVEL 2 — Cross-Section Reasoning
+
+How does scaling law prediction relate to GPT-4’s final performance?
+
+What trade-offs are discussed between capability and safety?
+
+Compare GPT-4’s performance in reasoning tasks vs factual knowledge tasks.
+
+How does reinforcement learning contribute to alignment?
+
+Identify a limitation mentioned in early training vs deployment stages.
